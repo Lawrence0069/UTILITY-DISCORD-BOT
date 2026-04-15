@@ -1,0 +1,42 @@
+LOCK_CHANNEL_PERMS = [  ]
+UNLOCK_CHANNEL_PERMS = [   ]
+LOCK_SPECIFIC_USER = [    ]
+UNLOCK_SPECIFIC_USER = [    ]
+CLEAN = [     ]
+STEAL_STICKER_EMOJI = [   ]
+HELP_PERMS = [     ]
+BAN_PERMS = [   ]
+UNBAN_PERMS= [   ]
+KICK_PERMS = [     ]
+NICK_PERMS = [     ]
+TIMEOUT_PERMS= [     ]
+PURGE_PERMS = [    ]
+ROLE_PERMS = [   ]
+KH_PERMS = [     ]
+MU_PERMS = [    ]
+DRAG_PERMS = [    ]
+MVC_PERMS = [   ]
+PING_PERMS = [   ]
+DUMPROLE_PERMS = [    ]
+SAY_PERMS = [  ]
+DUO_ALLOWED_ROLE_IDS = [   ] 
+LINK_ROLE_IDS = [    ]
+AVATAR_PERMS = [1416038702106284042]
+DC_PERMS = []
+DEFEN_PERMS = []
+MUTEALL_PERMS = []
+DC_PERMS_SINGLE = [ ]
+SM_PERMS= []
+UI_PERMS = []
+GIF_PERMS = [1416038702106284042]
+JOIN_PERMS = [ ]
+
+
+
+DUO_VC_IDS =  [] 
+LOG_CHANNEL_ID = 1416034098903781427
+BOT = [677047454918770691,969569882318446592,1226462532336746566]
+BLOCKED_VC_IDS = []
+
+import re
+url_pattern = re.compile(r'(https?://|www\.|discord\.gg|tenor\.com|giphy\.com)', re.IGNORECASE)
