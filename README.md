@@ -1,6 +1,6 @@
 # 🤖 Discord Utility Bot
 
-A powerful and customizable Discord bot built using Node.js.  
+A powerful and customizable Discord bot built using Python.  
 This bot includes moderation tools, ticket system, voice management, and more.
 
 ---
