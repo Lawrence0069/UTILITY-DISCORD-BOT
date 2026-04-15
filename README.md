@@ -20,7 +20,6 @@ This bot includes moderation tools, ticket system, voice management, and more.
 
 ## 🛠️ Tech Stack
 
-- Node.js (v20+)
 - Discord.js
 - MongoDB
 - Express (optional for web features)
